@@ -206,11 +206,13 @@ ol > li > ul > li:hover > a
     color:#451717;
 }
 
-.title {
-    
+.title 
+{
+    display: flex;
 
 }
-.title > span {
+.title > span 
+{
     font-family: 'Lato', sans-serif;
     font-size:30px;
 }
